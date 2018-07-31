@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: #Your url here
-baseurl: /
+baseurl: https://btctalk.github.io/x22xx11x4/
 
 # variables
 name: Your Site Name
